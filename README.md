@@ -1,4 +1,4 @@
-# Project-1-Excursion
+# Codecademy Github Project 1 - Excursion
 
 [Click here to view project](https://andrew-sanger.github.io/Project-1-Excursion/)
 
